@@ -29,7 +29,7 @@ The To-Do app provides a user-friendly interface for adding, completing, and del
 
 ## Live Demo
 
-Check out the live demo of the app [here](https://best-todo-list.web.app/).
+Check out the live demo of the app [here](https://best-todo-list.netlify.app/).
 
 ## Installation
 
